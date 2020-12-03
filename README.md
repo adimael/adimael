@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, MYSQL WORKBENCH, MONGODB, POSTGRESQL PHOTOSHOP.</strong>
+  💼 Ferramentas: <strong>VSCODE, MYSQL WORKBENCH, MONGODB, POSTGRESQL, PHOTOSHOP.</strong>
 </p>
 
 <p align="left">
