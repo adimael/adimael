@@ -5,7 +5,7 @@ Chamo-me Adimael, sou profissional em T.I.
 Atualmente estou apenas estudando e aprimorando meu conhecimento.
 
 
-Skills: HTML, CSS, PHP7, JAVASCRIPT.
+Skills: HTML, CSS, JAVASCRIPT.
 
 
 
