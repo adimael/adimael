@@ -1,5 +1,4 @@
 ### Hi there 👋, Adimael S.
-#### Desenvolvedor de Software
 ![Desenvolvedor de Software](https://uploaddeimagens.com.br/images/003/240/966/full/1614512792406.jpg?1620916594)
 
 Chamo-me Adimael, sou profissional em T.I.
