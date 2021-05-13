@@ -1,5 +1,6 @@
 ### Hi there 👋, Adimael S.
-![Desenvolvedor de Software](https://uploaddeimagens.com.br/images/003/240/966/full/1614512792406.jpg?1620916594)
+#### Desenvolvedor de Software
+![Desenvolvedor de Software](https://www.auctus.com.br/wp-content/uploads/2017/09/devops-process.png)
 
 Chamo-me Adimael, sou profissional em T.I.
 Atualmente estou apenas estudando e aprimorando meu conhecimento.
