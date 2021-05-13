@@ -6,4 +6,3 @@ Atualmente estou apenas estudando e aprimorando meu conhecimento.
 
 
 Skills: HTML, CSS, JAVASCRIPT.
-
