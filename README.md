@@ -1,32 +1,14 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### Hi there 👋, Adimael S.
+#### Desenvolvedor de Software
+![Desenvolvedor de Software](https://uploaddeimagens.com.br/images/003/240/966/full/1614512792406.jpg?1620916594)
 
-<p align="left"> 
-  Chamo-me Adimael, sou profissional em <strong>T.I</strong>.<br>
-  Atualmente estou apenas estudando e aprimorando meu conhecimento.
-</p>
+Chamo-me Adimael, sou profissional em T.I.
+Atualmente estou apenas estudando e aprimorando meu conhecimento.
 
-<p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, PHP7, JAVASCRIPT.</strong>
-</p>
 
-<p align="left">
-  💼 Ferramentas: <strong>VSCODE, MYSQL WORKBENCH, MONGODB, POSTGRESQL, PHOTOSHOP.</strong>
-</p>
+Skills: HTML, CSS, PHP7, JAVASCRIPT.
 
-<p align="left">
-  💌 Formas de contato: ⤵️
-</p>
 
-<p align="left">
-  <a href="mailto:adimaelbr@gmail.com?subject=Hello%20again" target="_blank" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5573999738916&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20Adimael%2C%20sou%20profissional%20em%20T.I" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/adimael)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/adimael)  
 
-  <a href="https://www.facebook.com/adimael.dev/" target="_blank" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="https://www.instagram.com/adimaelbr/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
