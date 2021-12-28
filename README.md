@@ -1,6 +1,4 @@
 ### Hi there 👋, Adimael S.
-  
-  ##
  
 <div> 
   <img align="right" alt="adimael-pic" height="150" style="border-radius:50px;" src="http://insait.com.br/wp-content/uploads/2020/09/figura-consultoria-e-governanca-de-ti-scitis.png">
