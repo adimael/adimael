@@ -3,12 +3,14 @@
 <div> 
   <img align="right" alt="adimael-pic" height="150" style="border-radius:50px;" src="http://insait.com.br/wp-content/uploads/2020/09/figura-consultoria-e-governanca-de-ti-scitis.png">
  <p align="left">  
-  <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html.png" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css.png" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/js.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="./icon/html.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icon/css.png" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icon/js.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icon/typescript.png" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="./icon/php.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="./icon/mysql.png" alt="mySQL" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icon/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="./icon/git.png" alt="git" width="40" height="40"/> </a>
 </p>
   
   - Atualmente estudando Sistemas de informação. 
