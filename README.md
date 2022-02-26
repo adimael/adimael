@@ -13,7 +13,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="./icon/git.png" alt="git" width="40" height="40"/> </a>
 </p>
   
-  - Atualmente estudando Sistemas de informação. 
+  - Atualmente estudando Bacharelado em Sistemas de Informação. 
 
   ______________________________________________________________________
   <a href="https://www.youtube.com/channel/UC8MPewhbDiWMG50DtF6Wr1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
