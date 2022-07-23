@@ -15,7 +15,7 @@
   
   - Possui formação técnica em informática (2011). Certificação de extensão em Segurança da informação pela universidade de Brasília(UNB), através do programa qualifica Brasil do Ministério do trabalho (2018). Certificação de Programador Web pelo Centro Estadual de Educação Profissional em Controle e Processos Industriais Newton Sucupira em Salvador-Bahia (2021).
  
-  - Atualmente estudando Bacharelado em Sistemas de Informação. <img width="50" height="50" src="./icon/future.png"> Currículo disponível em <a href = "adimael.github.io"><img width="170" height="50" src="./icon/button-acessar.png"></a>
+  - Atualmente estudando Bacharelado em Sistemas de Informação. <img width="50" height="50" src="./icon/future.png"> Currículo disponível em <a href = "https://adimael.github.io/"><img width="170" height="50" src="./icon/button-acessar.png"></a>
 
   ______________________________________________________________________
   <a href="https://www.youtube.com/channel/UC8MPewhbDiWMG50DtF6Wr1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
