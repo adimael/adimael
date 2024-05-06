@@ -13,7 +13,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="./icon/git.png" alt="git" width="40" height="40"/> </a>
 </p>
   
-  - Possui formação técnica em informática (2011). Certificação de extensão em Segurança da informação pela universidade de Brasília(UNB), através do programa qualifica Brasil do Ministério do trabalho (2018). Certificação de Programador Web pelo Centro Estadual de Educação Profissional em Controle e Processos Industriais Newton Sucupira em Salvador-Bahia (2021).
+  - Possui formação técnica em informática (2011). Certificação de Programador Web pelo Centro Estadual de Educação Profissional em Controle e Processos Industriais Newton Sucupira em Salvador-Bahia (2021).
  
   - Atualmente estudando Bacharelado em Sistemas de Informação. <img width="50" height="50" src="./icon/future.png">
 
