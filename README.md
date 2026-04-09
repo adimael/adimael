@@ -19,7 +19,9 @@ Graduação em Bacharelado em Sistemas de Informação e Análise e Desenvolvime
 
 ### 🌐 VUPI API
 
-Como projeto de destaque, vou apresentar a Vupi.us, que é projeto que venho me dedicando a bastante tempo, e que já está em sua fase final de desenvolvimento, iniciando a fase de testes. A **VUPI API** é um projeto de API REST **modular, enxuto e focado em segurança**, desenvolvido para oferecer alta flexibilidade sem depender de frameworks pesados.
+A **VUPI API** é um projeto ao qual venho me dedicando há bastante tempo e que atualmente se encontra em fase final de desenvolvimento, iniciando o ciclo de testes.
+
+Trata-se de uma API REST **modular, enxuta e com foco em segurança**, projetada para oferecer alta flexibilidade e desempenho sem a complexidade de frameworks pesados. Sua arquitetura é baseada em módulos independentes, permitindo escalabilidade, organização e baixo acoplamento.
 
 ### 📌 Status do projeto
 
