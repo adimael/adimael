@@ -1,5 +1,6 @@
-[![@adimael's Holopin board](https://holopin.io/api/user/board?user=adimael)](https://holopin.io/@adimael)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adimael/adimael/refs/heads/master/icon/pixel-jeff-mario-ffd1-44fd-9dbe-adf163ba9818.gif" alt="pixel-jeff-mario">
+</p>
 # Adimael S. - #OpenToWork
 
 ### DevOps
@@ -39,6 +40,4 @@ Trata-se de uma API REST **modular, enxuta e com foco em segurança**, projetada
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adimael/adimael/refs/heads/master/icon/pixel-jeff-mario-ffd1-44fd-9dbe-adf163ba9818.gif" alt="pixel-jeff-mario">
-</p>
+[![@adimael's Holopin board](https://holopin.io/api/user/board?user=adimael)](https://holopin.io/@adimael)
