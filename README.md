@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/adimael/)](https://www.linkedin.com/in/adimael/) 
 [![Gmail Badge](https://img.shields.io/badge/-adimaelbr@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:iuricold99@gmail.com)](mailto:adimaelbr@gmail.com)
 
-Graduação em Bacharelado em Sistemas de Informação e Análise e Desenvolvimento de Sistemas. Possuo experiência em desenvolvimento, redes e infraestrutura, com atuação anterior como estagiário na área de Tecnologia da Informação (TI). Tenho a segurança como pilar no desenvolvimento de APIs, com foco em arquitetura limpa e sistemas escaláveis, aspectos que considero essenciais em um cenário onde muitas vezes são negligenciados.
+Graduação em Bacharelado em Sistemas de Informação e Análise e Desenvolvimento de Sistemas. Possuo experiência em desenvolvimento, redes e infraestrutura, com atuação anterior como estagiário na área de Tecnologia da Informação (TI).
 
 ## ⚡ Tech Stack
 
