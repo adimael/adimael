@@ -16,28 +16,4 @@ Graduação em Bacharelado em Sistemas de Informação e Análise e Desenvolvime
   <img src="https://skillicons.dev/icons?i=php,java,docker,nginx,mysql,postgresql,git,linux" />
 </p>
 
-## 🔥 Projeto em destaque
-
-### 🌐 VUPI API
-
-A **VUPI API** é um projeto ao qual venho me dedicando há bastante tempo e que atualmente se encontra em fase final de desenvolvimento, iniciando o ciclo de testes.
-
-Trata-se de uma API REST **modular, enxuta e com foco em segurança**, projetada para oferecer alta flexibilidade e desempenho sem a complexidade de frameworks pesados. Sua arquitetura é baseada em módulos independentes, permitindo escalabilidade, organização e baixo acoplamento.
-
-### 📌 Status do projeto
-
-🚧 Atualmente em produção privada  
-🌍 Interface disponível: https://api.vupi.us/  
-🔒 Ainda não aberto ao público (em breve)
-
-### 📬 Contato
-
-📧 contato@vupi.us  
-
-🔗 Website: https://api.vupi.us  
-📚 Documentação: https://api.vupi.us/doc  
-💻 Repositório: https://github.com/sweflow  
-
----
-
 [![@adimael's Holopin board](https://holopin.io/api/user/board?user=adimael)](https://holopin.io/@adimael)
