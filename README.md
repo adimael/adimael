@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adimael/adimael/refs/heads/master/icon/pixel-jeff-mario-ffd1-44fd-9dbe-adf163ba9818.gif" alt="pixel-jeff-mario">
+  <img src="https://github.com/adimael/adimael/blob/master/icon/dev_vupi.us_002.png" alt="pixel-jeff-mario">
 </p>
 # Adimael S. - #OpenToWork
 
